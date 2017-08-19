@@ -37,7 +37,9 @@ Find [StackLite](https://www.kaggle.com/stackoverflow/stacklite) for your :compu
 
 :computer: **Quora Question Pairs** Can you identify question pairs that have the same intent? [Data](https://www.kaggle.com/c/quora-question-pairs/data) via Kaggle. As a cool addition, maybe you can find the most similar question from a FAQ bank of a company/product to the one asked by user.
 
-**Trump Bot? Obama Speeches?** Generate plausible new text which looks like some other text. For instance, you can create a bot which writes [new speeches in Obama's style](https://medium.com/@samim/obama-rnn-machine-generated-political-speeches-c8abd18a2ea0) or a Twitter bot which mimics [@realDonaldTrump](twitter.com/@realdonaldtrump).
+:cloud: **Open Domain Question Answering** Check out the interesting work by [Facebook's FAIR](https://github.com/facebookresearch/DrQA) on Wikipedia dataset. Can you customize this for a much smaller dataset such as [NCERT books](https://www.github.com/NirantK/ncert) for K-12/school  students in India? They can ask questions according to their books using Facebook messenger chatbot.
+
+**Trump Bot? Obama Speeches?** Generate plausible new text which looks like some other text. For instance, you can create a bot which writes [new speeches in Obama's style](https://medium.com/@samim/obama-rnn-machine-generated-political-speeches-c8abd18a2ea0) or a Twitter bot which mimics [@realDonaldTrump](twitter.com/@realdonaldtrump). Want to level up? Make a **Narendra Modi bot** by scrapping off his *Hindi* speeches from his [personal website](narendramodi.in).
 
 Check [mlm/blog](http://machinelearningmastery.com/text-generation-lstm-recurrent-neural-networks-python-keras/) for hints
 
