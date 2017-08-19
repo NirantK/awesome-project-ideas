@@ -17,10 +17,6 @@ Problems are motivated by the ones shared at:
 
 Text
 ---------
-**Text Classification**
-- Can you classify the text of an e-mail message to decide who sent it?
-- A data set is available at [Enron Data](https://www.cs.cmu.edu/~./enron/)
-
 **Autonomous Tagging of Stack Overflow Questions** 
 - Make a multi-label classification system that automatically assigns tags for questions posted on a forum such as Stackoverflow or Quora. 
 - Find [StackLite](https://www.kaggle.com/stackoverflow/stacklite) or [10% sample](https://www.kaggle.com/stackoverflow/stacksample) 
@@ -32,16 +28,16 @@ Text
 ### Natural Language Understanding
 **Automated Essay Grading** 
 - The purpose of this project is to implement and train machine learning algorithms to automatically assess and grade essay responses. 
-- It'd be super cool to have something which would allow learners everywhere how well they've learnt a topic
+- [Dataset](https://www.kaggle.com/c/asap-aes/data) sponsored by Hewlett Foundation on Kaggle
 
-**Quora Question Pairs** 
-- Can you identify question pairs that have the same intent? 
-- [Data](https://www.kaggle.com/c/quora-question-pairs/data) 
+**Sentence to Sentence Semantic Similarity** 
+- Can you identify question pairs that have the same intent? Or sentences that have the same meaning? 
+- [Quora Question Pairs Dataset](https://www.kaggle.com/c/quora-question-pairs/data)
 
 **Open Domain Question Answering** 
 - Can you build a bot which answers questions according to the student's age or her curriculum? 
 - [Facebook's FAIR](https://github.com/facebookresearch/DrQA) built similar for Wikipedia 
-- [NCERT books](https://www.github.com/NirantK/ncert) for K-12/school  students in India
+- Dataset: [NCERT books](https://www.github.com/NirantK/ncert) for K-12/school  students in India
 
 **Copy Writing Style**
 - Generate plausible new text which looks like some other text
@@ -50,6 +46,10 @@ Text
 - Want to level up? Make a **Narendra Modi bot** by scrapping off his *Hindi* speeches from his [personal website](http://www.narendramodi.in).
 
 Check [mlm/blog](http://machinelearningmastery.com/text-generation-lstm-recurrent-neural-networks-python-keras/) for hints
+
+**Text Classification**
+- Can you classify the text of an e-mail message to decide who sent it?
+- A data set is available at [Enron Data](https://www.cs.cmu.edu/~./enron/)
 
 Forecasting
 ---------
@@ -67,12 +67,13 @@ Forecasting
 Recommender Systems
 ---------
 **Movie Recommender** 
-- *Can you predict the rating a user will give on a movie?* 
+- Can you predict the rating a user will give on a movie? 
 - Do this using the movies that user has rated in the past, as well as the ratings similar users have given similar movies. 
-- The data is available here: [Netflix Prize](http://www.netflixprize.com/)
+- The data is available at [Netflix Prize](http://www.netflixprize.com/) and [MovieLens Datasets](https://grouplens.org/datasets/movielens/)
 
-**Best Buy Search + Recommendation System** 
-- Predict which Xbox game a visitor will be most interested in based on their search query using the [BestBuy dataset on Kaggle](https://www.kaggle.com/c/acm-sf-chapter-hackathon-small/data)
+**Search + Recommendation System** 
+- Predict which Xbox game a visitor will be most interested in based on their search query
+- [BestBuy dataset via Kaggle](https://www.kaggle.com/c/acm-sf-chapter-hackathon-small/data)
 
 **Can you predict Influencers in the Social Network?** 
 - Trying finding influencers via the [PeerIndex dataset](https://www.kaggle.com/c/predict-who-is-more-influential-in-a-social-network/data)
@@ -80,7 +81,7 @@ Recommender Systems
 Vision
 ---------
 **Image Classification**
-- CIFAR-10
+- [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html)
 - [ImageNet](http://www.image-net.org/)
 - [MS Coco](http://mscoco.org/) is the modern replacement to the ImageNet challenge
 - [MNIST Handwritten Digit Classification Challenge](http://yann.lecun.com/exdb/mnist/)  is the classic entry point
