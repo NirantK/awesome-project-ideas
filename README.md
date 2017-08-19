@@ -13,10 +13,16 @@ Problems are motivated by the ones shared at:
 
 ## Table of Contents
 
-- [Text](https://github.com/NirantK/awesome-project-ideas#Text) - include NLP tasks here for now
-- [Vision](https://github.com/NirantK/awesome-project-ideas#Vision) - includes image and video processing
-- [Forecasting](https://github.com/NirantK/awesome-project-ideas#Forecasting) - mostly Time Series and similar forecasting challenges
-- [Recommender Systems](https://github.com/NirantK/awesome-project-ideas#Recommender_Systems)
+- [Text](https://github.com/NirantK/awesome-project-ideas#text) - include NLP tasks here for now
+- [Vision](https://github.com/NirantK/awesome-project-ideas#vision) - includes image and video processing
+- [Forecasting](https://github.com/NirantK/awesome-project-ideas#forecasting) - mostly Time Series and similar forecasting challenges
+- [Recommender Systems](https://github.com/NirantK/awesome-project-ideas#recommender-systems)
+
+Text
+---------
+**Can you classify the text of an e-mail message to decide who sent it?** The Enron E-mail data set contains about 500,000 e-mails from about 150 users. The data set is available here: Enron Data
+
+**Sentiment Analysis**
 
 Vision
 ---------
@@ -27,12 +33,6 @@ You can try to create an object recognition system which can identify which obje
 Apply clustering to learn object categories without supervision
 
 **Character recognition** (digits) is the good old Optical Character Recognition problem. [Stanford dataset](http://ai.stanford.edu/~btaskar/ocr/) might be a good starting point. 
-
-Text
----------
-**Can you classify the text of an e-mail message to decide who sent it?** The Enron E-mail data set contains about 500,000 e-mails from about 150 users. The data set is available here: Enron Data
-
-**Sentiment Analysis**
 
 Forecasting
 ---------
