@@ -19,64 +19,71 @@ Text
 ---------
 **Autonomous Tagging of Stack Overflow Questions** 
 - Make a multi-label classification system that automatically assigns tags for questions posted on a forum such as Stackoverflow or Quora. 
-- Find [StackLite](https://www.kaggle.com/stackoverflow/stacklite) or [10% sample](https://www.kaggle.com/stackoverflow/stacksample) 
+- Dataset: [StackLite](https://www.kaggle.com/stackoverflow/stacklite) or [10% sample](https://www.kaggle.com/stackoverflow/stacksample) 
 
 **Keyword/Concept Identification** 
 - Identify keywords from millions of text questions
-- Find the [data on Kaggle](https://www.kaggle.com/c/facebook-recruiting-iii-keyword-extraction/data)
+- Dataset: [StackOverflow Questions Sample by Facebook](https://www.kaggle.com/c/facebook-recruiting-iii-keyword-extraction/data)
 
 ### Natural Language Understanding
 **Automated Essay Grading** 
 - The purpose of this project is to implement and train machine learning algorithms to automatically assess and grade essay responses. 
-- [Dataset](https://www.kaggle.com/c/asap-aes/data) sponsored by Hewlett Foundation on Kaggle
+- Dataset: [Essays with human graded scores](https://www.kaggle.com/c/asap-aes/data)
 
 **Sentence to Sentence Semantic Similarity** 
 - Can you identify question pairs that have the same intent? Or sentences that have the same meaning? 
-- [Quora Question Pairs Dataset](https://www.kaggle.com/c/quora-question-pairs/data)
+- Dataset: [Quora Question Pairs](https://www.kaggle.com/c/quora-question-pairs/data) with similar questions marked
 
 **Open Domain Question Answering** 
 - Can you build a bot which answers questions according to the student's age or her curriculum? 
 - [Facebook's FAIR](https://github.com/facebookresearch/DrQA) built similar for Wikipedia 
-- Dataset: [NCERT books](https://www.github.com/NirantK/ncert) for K-12/school  students in India
+- Dataset: [NCERT books](https://www.github.com/NirantK/ncert) for K-12/school students in India
 
-**Copy Writing Style**
+**Copy-cat Bot**
 - Generate plausible new text which looks like some other text
 - Obama Speeches? For instance, you can create a bot which writes [new speeches in Obama's style](https://medium.com/@samim/obama-rnn-machine-generated-political-speeches-c8abd18a2ea0)
 - Trump Bot? Or a Twitter bot which mimics [@realDonaldTrump](http://www.twitter.com/@realdonaldtrump)
-- Want to level up? Make a **Narendra Modi bot** by scrapping off his *Hindi* speeches from his [personal website](http://www.narendramodi.in).
+- Narendra Modi bot saying *doston*? Start by scrapping off his *Hindi* speeches from his [personal website](http://www.narendramodi.in)
+  - Example Dataset: [English Transcript of Modi speeches](https://github.com/mgupta1410/pm_modi_speeches_repo)
 
 Check [mlm/blog](http://machinelearningmastery.com/text-generation-lstm-recurrent-neural-networks-python-keras/) for hints
 
-**Text Classification**
+**Sentiment Analysis**
+- Do Twitter Sentiment Analysis on tweets sorted by geography and timestamp
+- Dataset: [Tweets sentiment tagged by humans](https://inclass.kaggle.com/c/si650winter11/data)
+
+**De-anonymization**
 - Can you classify the text of an e-mail message to decide who sent it?
-- A data set is available at [Enron Data](https://www.cs.cmu.edu/~./enron/)
+- Dataset: [150,000 Enron emails](https://www.cs.cmu.edu/~./enron/)
 
 Forecasting
 ---------
-**Rainfall prediction** 
-- How much will it rain this year where you live? 
-- 45 years of daily precipitation data from the Northwest of the US mentioned [here](http://research.jisao.washington.edu/data_sets/widmann/) is good for for getting started. 
+**Univariate Time Series Forecasting** 
+- How much will it rain this year?
+- Dataset: [45 years of rainfall data](http://research.jisao.washington.edu/data_sets/widmann/)
 
-**Pollution Level Forecasting** 
-- Multi-variate Time Series forecasting on the [Air Quality dataset](https://archive.ics.uci.edu/ml/datasets/Beijing+PM2.5+Data)
+**Multi-variate Time Series Forecasting** 
+- How polluted will your town air be? Pollution Level Forecasting
+- Dataset: [Air Quality dataset](https://archive.ics.uci.edu/ml/datasets/Beijing+PM2.5+Data)
 
-**Home Electricity Forecasting** 
-- Find a short term forecast on electricity consumption of a single home. Find the dataset [here](https://archive.ics.uci.edu/ml/datasets/individual+household+electric+power+consumption). 
-- Use the model above to forecast your home's electricity consumption - does the model still work? Why or why not? 
+**Demand/load forecasting** 
+- Find a short term forecast on electricity consumption of a single home
+- Dataset: [Electricity Consumption of a household](https://archive.ics.uci.edu/ml/datasets/individual+household+electric+power+consumption). 
 
 Recommender Systems
 ---------
 **Movie Recommender** 
 - Can you predict the rating a user will give on a movie? 
 - Do this using the movies that user has rated in the past, as well as the ratings similar users have given similar movies. 
-- The data is available at [Netflix Prize](http://www.netflixprize.com/) and [MovieLens Datasets](https://grouplens.org/datasets/movielens/)
+- Dataset: [Netflix Prize](http://www.netflixprize.com/) and [MovieLens Datasets](https://grouplens.org/datasets/movielens/)
 
 **Search + Recommendation System** 
 - Predict which Xbox game a visitor will be most interested in based on their search query
-- [BestBuy dataset via Kaggle](https://www.kaggle.com/c/acm-sf-chapter-hackathon-small/data)
+- Dataset: [BestBuy](https://www.kaggle.com/c/acm-sf-chapter-hackathon-small/data)
 
 **Can you predict Influencers in the Social Network?** 
-- Trying finding influencers via the [PeerIndex dataset](https://www.kaggle.com/c/predict-who-is-more-influential-in-a-social-network/data)
+- How can you predict social influencers? 
+- Dataset: [PeerIndex](https://www.kaggle.com/c/predict-who-is-more-influential-in-a-social-network/data) 
 
 Vision
 ---------
@@ -88,7 +95,7 @@ Vision
 - [Character recognition (digits)](http://ai.stanford.edu/~btaskar/ocr/) is the good old Optical Character Recognition problem
 - Bird Species Identification from an Image using the [Caltech-UCSD Birds dataset](http://www.vision.caltech.edu/visipedia/CUB-200-2011.html) dataset
 - Diagnosing and Segmenting Brain Tumors and Phenotypes using MRI Scans
-    - MICCAI Machine Learning Challenge aka [MLC 2014 dataset](https://www.nmr.mgh.harvard.edu/lab/laboratory-computational-imaging-biomarkers/miccai-2014-machine-learning-challenge)
+    - Dataset: MICCAI Machine Learning Challenge aka [MLC 2014](https://www.nmr.mgh.harvard.edu/lab/laboratory-computational-imaging-biomarkers/miccai-2014-machine-learning-challenge)
 
 
 ## FAQ
