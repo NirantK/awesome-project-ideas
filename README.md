@@ -18,12 +18,16 @@ Problems are motivated by the ones shared at:
 Text
 ---------
 **Autonomous Tagging of Stack Overflow Questions** 
-- Make a multi-label classification system that automatically assigns tags for questions posted on a forum such as Stackoverflow or Quora. 
+- Make a multi-label classification system that automatically assigns tags for questions posted on a forum such as Stackoverflow or Quora 
 - Dataset: [StackLite](https://www.kaggle.com/stackoverflow/stacklite) or [10% sample](https://www.kaggle.com/stackoverflow/stacksample) 
 
 **Keyword/Concept Identification** 
 - Identify keywords from millions of text questions
 - Dataset: [StackOverflow Questions Sample by Facebook](https://www.kaggle.com/c/facebook-recruiting-iii-keyword-extraction/data)
+
+**Topics Identification**
+- Multi-label classification of printed media articles to topics
+- Dataset: [Greek Media Monitoring Multilabel Classification](https://www.kaggle.com/c/wise-2014/data)
 
 ### Natural Language Understanding
 **Automated Essay Grading** 
@@ -68,7 +72,7 @@ Forecasting
 
 **Demand/load forecasting** 
 - Find a short term forecast on electricity consumption of a single home
-- Dataset: [Electricity Consumption of a household](https://archive.ics.uci.edu/ml/datasets/individual+household+electric+power+consumption). 
+- Dataset: [Electricity Consumption of a household](https://archive.ics.uci.edu/ml/datasets/individual+household+electric+power+consumption)
 
 Recommender Systems
 ---------
@@ -96,16 +100,20 @@ Vision
 - Bird Species Identification from an Image using the [Caltech-UCSD Birds dataset](http://www.vision.caltech.edu/visipedia/CUB-200-2011.html) dataset
 - Diagnosing and Segmenting Brain Tumors and Phenotypes using MRI Scans
     - Dataset: MICCAI Machine Learning Challenge aka [MLC 2014](https://www.nmr.mgh.harvard.edu/lab/laboratory-computational-imaging-biomarkers/miccai-2014-machine-learning-challenge)
-
+- Identify endangered right whales in aerial photographs
+    - Dataset: [MOAA Right Whale](https://www.kaggle.com/c/noaa-right-whale-recognition)
 
 ## FAQ
-1. **Can I use the ideas here for my thesis?** Yeah, totally. I'd love to know how it went. 
+**Can I use the ideas here for my thesis?** 
+Yeah, totally. I'd love to know how it went. 
 
-2. **Do you want to share my solution/code to a problem here**? Yeah, sure - why not? Go to [Github issues](https://github.com/NirantK/awesome-project-ideas/issues) in the repository and let me know there. 
+**Do you want to share my solution/code to a problem here**? Yeah, sure - why not? 
+Go to [Github issues](https://github.com/NirantK/awesome-project-ideas/issues) in the repository and let me know there. 
 
-3. **How can I add my ideas here?** Just send a pull request and we'll discuss? 
+**How can I add my ideas here?** Just send a pull request and we'll discuss? 
 
-4. **Hey @NirantK, something is wrong here!** Yikes, I am sorry. Please tell me by raising a [Github issue](https://github.com/NirantK/awesome-project-ideas/issues). I'll try to fix it as soon as possible. 
+**Hey @NirantK, something is wrong here!** Yikes, I am sorry. Please tell me by raising a [Github issue](https://github.com/NirantK/awesome-project-ideas/issues). I'll try to fix it as soon as possible. 
 
 ### Credits
-This repo was compiled by [Nirant Kasliwal](http://twitter.com/NirantK)
+Nirant Kasliwal
+[Linkedin](http://www.linkedin.com/in/nirant) | [Twitter](http:/www.twitter.com/NirantK)
