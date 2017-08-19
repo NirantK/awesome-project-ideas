@@ -13,10 +13,10 @@ Problems are motivated by the ones shared at:
 
 ## Table of Contents
 
-- [Text](https://github.com/NirantK/Projects#Text) - include NLP tasks here for now
-- [Vision](https://github.com/NirantK/Projects#Vision) - includes image and video processing
-- [Forecasting](https://github.com/NirantK/Projects#Forecasting) - mostly Time Series and similar forecasting challenges
-- [Recommender Systems](https://github.com/NirantK/Projects#Recommender_Systems)
+- [Text](https://github.com/NirantK/awesome-project-ideas#Text) - include NLP tasks here for now
+- [Vision](https://github.com/NirantK/awesome-project-ideas#Vision) - includes image and video processing
+- [Forecasting](https://github.com/NirantK/awesome-project-ideas#Forecasting) - mostly Time Series and similar forecasting challenges
+- [Recommender Systems](https://github.com/NirantK/awesome-project-ideas#Recommender_Systems)
 
 Vision
 ---------
