@@ -1,5 +1,5 @@
-# Deep Learning Project Ideas
-A list of practical Deep Learning projects
+# Awesome Deep Learning Project Ideas
+Mega list of practical Deep Learning projects
 
 These projects are divided in multiple categories, same problem may appear in more than one categories. 
 
@@ -10,7 +10,7 @@ Problems are motivated by the ones shared at:
 
 ## Table of Contents
 
-- [Text](https://github.com/NirantK/awesome-project-ideas#text) - include NLP tasks here for now
+- [Text](https://github.com/NirantK/awesome-project-ideas#text) - including natural language under this section 
 - [Forecasting](https://github.com/NirantK/awesome-project-ideas#forecasting) - mostly Time Series and similar forecasting challenges
 - [Recommender Systems](https://github.com/NirantK/awesome-project-ideas#recommender-systems)
 - [Vision](https://github.com/NirantK/awesome-project-ideas#vision) - includes image and video processing
@@ -42,6 +42,11 @@ Text
 - Can you build a bot which answers questions according to the student's age or her curriculum? 
 - [Facebook's FAIR](https://github.com/facebookresearch/DrQA) built similar for Wikipedia 
 - Dataset: [NCERT books](https://www.github.com/NirantK/ncert) for K-12/school students in India
+
+**Automatic Text Summarization**
+- Can you create a summary with the major points of the original document?
+- Abstractive (write your own summary) and Extractive (select pieces of text from original) are two popular approaches
+- Dataset: [CNN and DailyMail News Pieces](http://cs.nyu.edu/~kcho/DMQA/) by Google Deepmind
 
 **Copy-cat Bot**
 - Generate plausible new text which looks like some other text
@@ -92,16 +97,18 @@ Recommender Systems
 Vision
 ---------
 **Image Classification**
-- [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html)
-- [ImageNet](http://www.image-net.org/)
-- [MS Coco](http://mscoco.org/) is the modern replacement to the ImageNet challenge
-- [MNIST Handwritten Digit Classification Challenge](http://yann.lecun.com/exdb/mnist/)  is the classic entry point
-- [Character recognition (digits)](http://ai.stanford.edu/~btaskar/ocr/) is the good old Optical Character Recognition problem
-- Bird Species Identification from an Image using the [Caltech-UCSD Birds dataset](http://www.vision.caltech.edu/visipedia/CUB-200-2011.html) dataset
-- Diagnosing and Segmenting Brain Tumors and Phenotypes using MRI Scans
-    - Dataset: MICCAI Machine Learning Challenge aka [MLC 2014](https://www.nmr.mgh.harvard.edu/lab/laboratory-computational-imaging-biomarkers/miccai-2014-machine-learning-challenge)
-- Identify endangered right whales in aerial photographs
-    - Dataset: [MOAA Right Whale](https://www.kaggle.com/c/noaa-right-whale-recognition)
+- Object recognition or image classification task is how Deep Learning shot up to it's present-day resurgence
+- Datasets: 
+  - [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html)
+  - [ImageNet](http://www.image-net.org/)
+  - [MS Coco](http://mscoco.org/) is the modern replacement to the ImageNet challenge
+  - [MNIST Handwritten Digit Classification Challenge](http://yann.lecun.com/exdb/mnist/)  is the classic entry point
+  - [Character recognition (digits)](http://ai.stanford.edu/~btaskar/ocr/) is the good old Optical Character Recognition problem
+  - Bird Species Identification from an Image using the [Caltech-UCSD Birds dataset](http://www.vision.caltech.edu/visipedia/CUB-200-2011.html) dataset
+  - Diagnosing and Segmenting Brain Tumors and Phenotypes using MRI Scans
+      - Dataset: MICCAI Machine Learning Challenge aka [MLC 2014](https://www.nmr.mgh.harvard.edu/lab/laboratory-computational-imaging-biomarkers/miccai-2014-machine-learning-challenge)
+  - Identify endangered right whales in aerial photographs
+      - Dataset: [MOAA Right Whale](https://www.kaggle.com/c/noaa-right-whale-recognition)
 
 ## FAQ
 **Can I use the ideas here for my thesis?** 
@@ -114,6 +121,6 @@ Go to [Github issues](https://github.com/NirantK/awesome-project-ideas/issues) i
 
 **Hey @NirantK, something is wrong here!** Yikes, I am sorry. Please tell me by raising a [Github issue](https://github.com/NirantK/awesome-project-ideas/issues). I'll try to fix it as soon as possible. 
 
-### Credits
-Nirant Kasliwal
-[Linkedin](http://www.linkedin.com/in/nirant) | [Twitter](http:/www.twitter.com/NirantK)
+### Queries? 
+[Nirant Kasliwal](http://www.linkedin.com/in/nirant) compiled the ideas in this repository. 
+Find him on [Twitter](http:/www.twitter.com/NirantK) or [Linkedin](http://www.linkedin.com/in/nirant)
