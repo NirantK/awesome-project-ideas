@@ -1,4 +1,4 @@
-# Awesome Deep Learning Project Ideas
+# Awesome Deep Learning Project Ideas [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) 
 Mega list of practical Deep Learning projects
 
 These projects are divided in multiple categories, same problem may appear in more than one categories. 
@@ -109,6 +109,10 @@ Vision
       - Dataset: MICCAI Machine Learning Challenge aka [MLC 2014](https://www.nmr.mgh.harvard.edu/lab/laboratory-computational-imaging-biomarkers/miccai-2014-machine-learning-challenge)
   - Identify endangered right whales in aerial photographs
       - Dataset: [MOAA Right Whale](https://www.kaggle.com/c/noaa-right-whale-recognition)
+      
+**Image Captioning**
+- Can you caption/explain the photo a way human would? 
+- Dataset: [MS COCO](http://mscoco.org/dataset/#captions-challenge2015)
 
 ## FAQ
 **Can I use the ideas here for my thesis?** 
