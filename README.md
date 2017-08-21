@@ -101,7 +101,7 @@ Vision
 - Datasets: 
   - [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html)
   - [ImageNet](http://www.image-net.org/)
-  - [MS Coco](http://mscoco.org/) is the modern replacement to the ImageNet challenge
+  - [MS COCO](http://mscoco.org/) is the modern replacement to the ImageNet challenge
   - [MNIST Handwritten Digit Classification Challenge](http://yann.lecun.com/exdb/mnist/)  is the classic entry point
   - [Character recognition (digits)](http://ai.stanford.edu/~btaskar/ocr/) is the good old Optical Character Recognition problem
   - Bird Species Identification from an Image using the [Caltech-UCSD Birds dataset](http://www.vision.caltech.edu/visipedia/CUB-200-2011.html) dataset
@@ -109,10 +109,29 @@ Vision
       - Dataset: MICCAI Machine Learning Challenge aka [MLC 2014](https://www.nmr.mgh.harvard.edu/lab/laboratory-computational-imaging-biomarkers/miccai-2014-machine-learning-challenge)
   - Identify endangered right whales in aerial photographs
       - Dataset: [MOAA Right Whale](https://www.kaggle.com/c/noaa-right-whale-recognition)
+  - Can computer vision spot distracted drivers?
+      - Dataset: [State Farm Distracted Driver Detection](https://www.kaggle.com/c/state-farm-distracted-driver-detection/data) on Kaggle
       
 **Image Captioning**
 - Can you caption/explain the photo a way human would? 
 - Dataset: [MS COCO](http://mscoco.org/dataset/#captions-challenge2015)
+
+**Image Segmentation/Object Detection**
+- Can you extract an object of interest from an image? 
+- Dataset: [MS COCO](http://mscoco.org/dataset/#detections-challenge2017), [Carvana Image Masking Challenge](https://www.kaggle.com/c/carvana-image-masking-challenge/data) on Kaggle
+
+**Large-Scale Video Understanding**
+- Can you produce the best video tag predictions?
+- Dataset: [Youtube 8M](https://research.google.com/youtube8m/index.html)
+
+**Video Summarization**
+- Can you select the semantically relevant/important parts from the video? 
+- Example: [Fast-Forward Video Based on Semantic Extraction](https://arxiv.org/abs/1708.04160)
+- Dataset: Unaware of any standard dataset or agreed upon metrics, [Youtube 8M](https://research.google.com/youtube8m/index.html) might be good starting point
+
+**Style Transfer**
+- Can you recompose images in the style of other images? 
+- Dataset: [fzliu on Github](https://github.com/fzliu/style-transfer/tree/master/images) shared target and source images with results
 
 ## FAQ
 **Can I use the ideas here for my thesis?** 
