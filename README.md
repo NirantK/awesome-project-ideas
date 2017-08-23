@@ -133,6 +133,10 @@ Vision
 - Can you recompose images in the style of other images? 
 - Dataset: [fzliu on Github](https://github.com/fzliu/style-transfer/tree/master/images) shared target and source images with results
 
+**Clinical Diagnostics: Image Idenitification, classification & segmentation**
+- Can you help build an open source software for lung cancer detection to help radiologists? 
+- Link: [Concept to Clinic](https://concepttoclinic.drivendata.org/) challenge on DrivenData
+
 ## FAQ
 **Can I use the ideas here for my thesis?** 
 Yeah, totally. I'd love to know how it went. 
@@ -145,5 +149,5 @@ Go to [Github issues](https://github.com/NirantK/awesome-project-ideas/issues) i
 **Hey @NirantK, something is wrong here!** Yikes, I am sorry. Please tell me by raising a [Github issue](https://github.com/NirantK/awesome-project-ideas/issues). I'll try to fix it as soon as possible. 
 
 ### Queries? 
-[Nirant Kasliwal](http://www.linkedin.com/in/nirant) compiled the ideas in this repository. 
+[Nirant Kasliwal](http://www.linkedin.com/in/nirant) compiled the ideas in this repository 
 Find him on [Twitter](http:/www.twitter.com/NirantK) or [Linkedin](http://www.linkedin.com/in/nirant)
