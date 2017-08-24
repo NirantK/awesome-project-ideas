@@ -79,6 +79,11 @@ Forecasting
 - Find a short term forecast on electricity consumption of a single home
 - Dataset: [Electricity Consumption of a household](https://archive.ics.uci.edu/ml/datasets/individual+household+electric+power+consumption)
 
+**Predict Blood Donation**
+- We're interested in predicting if a blood donor will donate within a given time window
+- More on the problem statement at [Driven Data](https://www.drivendata.org/competitions/2/warm-up-predict-blood-donations/page/7/)
+- Dataset: [UCI ML Datasets Repo](https://archive.ics.uci.edu/ml/datasets/Blood+Transfusion+Service+Center)
+
 Recommender Systems
 ---------
 **Movie Recommender** 
