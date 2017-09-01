@@ -1,7 +1,10 @@
-# Awesome Deep Learning Project Ideas [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) 
-Mega list of practical Deep Learning projects
+# Awesome Deep Learning Project Ideas 
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) 
 
-These projects are divided in multiple categories, same problem may appear in more than one categories. 
+**List of Practical Deep Learning, Machine learning project Ideas**
+ - 25+ ideas 
+ - Relevant to academia and industry both
+ - Range from beginner friendly to research projects
 
 Problems are motivated by the ones shared at:
 
