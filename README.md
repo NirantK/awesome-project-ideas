@@ -159,3 +159,5 @@ Go to [Github issues](https://github.com/NirantK/awesome-project-ideas/issues) i
 ### Queries? 
 [Nirant Kasliwal](http://www.linkedin.com/in/nirant) compiled the ideas in this repository 
 Find him on [Twitter](http:/www.twitter.com/NirantK) or [Linkedin](http://www.linkedin.com/in/nirant)
+
+[![HitCount](http://hits.dwyl.io/NirantK/awesome-project-ideas.svg)](http://hits.dwyl.io/NirantK/awesome-project-ideas)
