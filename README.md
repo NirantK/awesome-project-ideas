@@ -41,10 +41,14 @@ Text
 - Can you identify question pairs that have the same intent? Or sentences that have the same meaning? 
 - Dataset: [Quora Question Pairs](https://www.kaggle.com/c/quora-question-pairs/data) with similar questions marked
 
+**Fight online abuse**
+- Can you confidently and accurately tell via a particular is abusive? 
+- Dataset: [Toxic Comments on Kaggle](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge)
+
 **Open Domain Question Answering** 
 - Can you build a bot which answers questions according to the student's age or her curriculum? 
 - [Facebook's FAIR](https://github.com/facebookresearch/DrQA) built similar for Wikipedia 
-- Dataset: [NCERT books](https://www.github.com/NirantK/ncert) for K-12/school students in India
+- Dataset: [NCERT books](https://www.github.com/NirantK/ncert) for K-12/school students in India, [NarrativeQA by Google DeepMind](https://github.com/deepmind/narrativeqa) and [SQuAD by Stanford](https://rajpurkar.github.io/SQuAD-explorer/)
 
 **Automatic Text Summarization**
 - Can you create a summary with the major points of the original document?
@@ -140,6 +144,10 @@ Vision
 **Style Transfer**
 - Can you recompose images in the style of other images? 
 - Dataset: [fzliu on Github](https://github.com/fzliu/style-transfer/tree/master/images) shared target and source images with results
+
+**Face Recognition**
+- Can you identify whose photo is this? Similar to Facebook's photo tagging or Apple's FaceId
+- Dataset: [face-rec.org](http://www.face-rec.org/databases/), or [facedetection.com](https://facedetection.com/datasets/)
 
 **Clinical Diagnostics: Image Idenitification, classification & segmentation**
 - Can you help build an open source software for lung cancer detection to help radiologists? 
