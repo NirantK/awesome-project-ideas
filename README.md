@@ -1,7 +1,7 @@
 # Awesome Deep Learning Project Ideas 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) 
 
-**List of Practical Deep Learning, Machine learning project Ideas**
+**Curated List of Practical Deep Learning, Machine learning project Ideas**
  - 25+ ideas 
  - Relevant to academia and industry both
  - Range from beginner friendly to research projects
@@ -11,12 +11,16 @@ Problems are motivated by the ones shared at:
 * [CMU Machine Learning](http://www.cs.cmu.edu/~./10701/projects.html)
 * [Stanford CS229 Machine Learning Projects](http://cs229.stanford.edu/)
 
-## Table of Contents
+---
+If you have ideas worth adding, here please do send a pull request!
+---
 
-- [Text](https://github.com/NirantK/awesome-project-ideas#text) - including natural language under this section 
-- [Forecasting](https://github.com/NirantK/awesome-project-ideas#forecasting) - mostly Time Series and similar forecasting challenges
-- [Recommender Systems](https://github.com/NirantK/awesome-project-ideas#recommender-systems)
-- [Vision](https://github.com/NirantK/awesome-project-ideas#vision) - includes image and video processing
+## Contents
+
+- [Text](#text) - including natural language under this section 
+- [Forecasting](#forecasting) - mostly Time Series and similar forecasting challenges
+- [Recommender Systems](#recommender-systems)
+- [Vision](#vision) - includes image and video processing
 
 Text
 ---------
