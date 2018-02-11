@@ -11,8 +11,8 @@ Problems are motivated by the ones shared at:
 * [CMU Machine Learning](http://www.cs.cmu.edu/~./10701/projects.html)
 * [Stanford CS229 Machine Learning Projects](http://cs229.stanford.edu/)
 
----
-If you have ideas worth adding, here please do send a pull request!
+
+Please do send a PR or open an issue with your suggestions and requests!
 ---
 
 ## Contents
@@ -156,6 +156,14 @@ Vision
 **Clinical Diagnostics: Image Idenitification, classification & segmentation**
 - Can you help build an open source software for lung cancer detection to help radiologists? 
 - Link: [Concept to Clinic](https://concepttoclinic.drivendata.org/) challenge on DrivenData
+
+**Satellite Imagery Processing for Socioeconomic Analysis**
+- Can you estimate the standard of living or energy consumption of a place from night time satellite imagery? 
+- Reference for Project details: [Stanford Poverty Estimation Project](http://sustain.stanford.edu/predicting-poverty/)
+
+**Satellite Imagery Processing for Automated Tagging**
+- Can you automatically tag satellite images with human features such as buildings, roads, waterways and so on? 
+- Help free the manual effort in tagging satellite imagery: [Kaggle Dataset by DSTL, UK](https://www.kaggle.com/c/dstl-satellite-imagery-feature-detection)
 
 ## FAQ
 **Can I use the ideas here for my thesis?** 
