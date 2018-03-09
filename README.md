@@ -52,7 +52,7 @@ Text
 **Open Domain Question Answering** 
 - Can you build a bot which answers questions according to the student's age or her curriculum? 
 - [Facebook's FAIR](https://github.com/facebookresearch/DrQA) built similar for Wikipedia 
-- Dataset: [NCERT books](https://www.github.com/NirantK/ncert) for K-12/school students in India, [NarrativeQA by Google DeepMind](https://github.com/deepmind/narrativeqa) and [SQuAD by Stanford](https://rajpurkar.github.io/SQuAD-explorer/)
+- Dataset: [NCERT books](http://ncert.nic.in/ebooks.html) for K-12/school students in India, [NarrativeQA by Google DeepMind](https://github.com/deepmind/narrativeqa) and [SQuAD by Stanford](https://rajpurkar.github.io/SQuAD-explorer/)
 
 **Automatic Text Summarization**
 - Can you create a summary with the major points of the original document?
