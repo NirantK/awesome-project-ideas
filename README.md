@@ -128,6 +128,10 @@ Vision
   - Can computer vision spot distracted drivers?
       - Dataset: [State Farm Distracted Driver Detection](https://www.kaggle.com/c/state-farm-distracted-driver-detection/data) on Kaggle
       
+**Bone XRay Competition**
+- Can you identify if the hand is broken from a X-ray radiographs automatically with better than human performance? 
+- Stanford's Bone XRay Deep Learning Compeition with [MURA Dataset](https://stanfordmlgroup.github.io/competitions/mura/)
+
 **Image Captioning**
 - Can you caption/explain the photo a way human would? 
 - Dataset: [MS COCO](http://mscoco.org/dataset/#captions-challenge2015)
