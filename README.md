@@ -21,6 +21,7 @@ Please do send a PR or open an issue with your suggestions and requests!
 - [Forecasting](#forecasting) - mostly Time Series and similar forecasting challenges
 - [Recommender Systems](#recommender-systems)
 - [Vision](#vision) - includes image and video processing
+- [Music and Audio](#audio) - combine ideas from language, and audio to understand music
 
 Text
 ---------
@@ -168,6 +169,13 @@ Vision
 **Satellite Imagery Processing for Automated Tagging**
 - Can you automatically tag satellite images with human features such as buildings, roads, waterways and so on? 
 - Help free the manual effort in tagging satellite imagery: [Kaggle Dataset by DSTL, UK](https://www.kaggle.com/c/dstl-satellite-imagery-feature-detection)
+
+Music
+---
+
+**Music/Audio Recommendation Systems**
+- Can you tell if two songs are similar using their sound or lyrics? 
+- Dataset: [Million Songs Dataset](https://labrosa.ee.columbia.edu/millionsong/) and it's 1% sample. Example: [Anusha et al](https://cs224d.stanford.edu/reports/BalakrishnanDixit.pdf) 
 
 ## FAQ
 **Can I use the ideas here for my thesis?** 
