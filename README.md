@@ -21,7 +21,7 @@ Please do send a PR or open an issue with your suggestions and requests!
 - [Forecasting](#forecasting) - mostly Time Series and similar forecasting challenges
 - [Recommender Systems](#recommender-systems)
 - [Vision](#vision) - includes image and video processing
-- [Music and Audio](#audio) - combine ideas from language, and audio to understand music
+- [Music and Audio](#music) - combine ideas from language, and audio to understand music
 
 Text
 ---------
