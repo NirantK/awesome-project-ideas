@@ -6,14 +6,6 @@
  - Relevant to academia and industry both
  - Range from beginner friendly to research projects
 
-Problems are motivated by the ones shared at:
-
-* [CMU Machine Learning](http://www.cs.cmu.edu/~./10701/projects.html)
-* [Stanford CS229 Machine Learning Projects](http://cs229.stanford.edu/)
-
-
-Please do send a PR or open an issue with your suggestions and requests!
----
 
 ## Contents
 
@@ -181,15 +173,29 @@ Music
 **Can I use the ideas here for my thesis?** 
 Yeah, totally. I'd love to know how it went. 
 
+**Do you have any advice before I start my project?**
+[Advice for Short Term Machine Learning Projects](https://rockt.github.io/2018/08/29/msc-advice) by Tim R. is a pretty good starting point! 
+
 **Do you want to share my solution/code to a problem here**? Yeah, sure - why not? 
 Go to [Github issues](https://github.com/NirantK/awesome-project-ideas/issues) in the repository and let me know there. 
 
 **How can I add my ideas here?** Just send a pull request and we'll discuss? 
 
-**Hey @NirantK, something is wrong here!** Yikes, I am sorry. Please tell me by raising a [Github issue](https://github.com/NirantK/awesome-project-ideas/issues). I'll try to fix it as soon as possible. 
+**Hey, something is wrong here!** 
+Yikes, I am sorry. Please tell me by raising a [Github issue](https://github.com/NirantK/awesome-project-ideas/issues). 
+I'll fix it as soon as possible. 
 
-### Queries? 
-[Nirant Kasliwal](http://www.linkedin.com/in/nirant) compiled the ideas in this repository 
-Find him on [Twitter](http:/www.twitter.com/NirantK) or [Linkedin](http://www.linkedin.com/in/nirant)
+**Hey, I need help getting started. Can you help me find a mentor?**
+Just drop an email to projects@nirantk.com and we'll see if I can help you? 
+
+### Acknowledgements
+Problems are motivated by the ones shared at:
+
+* [CMU Machine Learning](http://www.cs.cmu.edu/~./10701/projects.html)
+* [Stanford CS229 Machine Learning Projects](http://cs229.stanford.edu/)
+
+### Credit
+Built with lots of keyboard smashing and copy-pasta love by NirantK on [(Twitter)](http://www.twitter.com/@nirantk)! 
 
 [![HitCount](http://hits.dwyl.io/NirantK/awesome-project-ideas.svg)](http://hits.dwyl.io/NirantK/awesome-project-ideas)
+
