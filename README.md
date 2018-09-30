@@ -195,7 +195,9 @@ Problems are motivated by the ones shared at:
 * [Stanford CS229 Machine Learning Projects](http://cs229.stanford.edu/)
 
 ### Credit
-Built with lots of keyboard smashing and copy-pasta love by NirantK on [(Twitter)](http://www.twitter.com/@nirantk)! 
+Built with lots of keyboard smashing and copy-pasta love by NirantK, find me on [(Twitter)](http://www.twitter.com/@nirantk)! 
 
-[![HitCount](http://hits.dwyl.io/NirantK/awesome-project-ideas.svg)](http://hits.dwyl.io/NirantK/awesome-project-ideas)
+## [Receive New & Exclusive Ideas in Email](http://eepurl.com/dIKLhz)
+These ideas have been see by [![HitCount](http://hits.dwyl.io/NirantK/awesome-project-ideas.svg)](http://hits.dwyl.io/NirantK/awesome-project-ideas) people in last few months!
 
+If you are interested in seeing **exclusive** machine learning and deep learning project ideas, share your [email id here](http://eepurl.com/dIKLhz)
