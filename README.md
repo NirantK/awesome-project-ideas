@@ -172,8 +172,8 @@ Music
 **Music Genre recognition using neural networks**
 - Neural Network ideas that were used for computer vision can be used to classify songs.
 - Spectrogram(Visual representation of a spectrum of frequencies) of songs of various genre can be created and used to train a     classifier.
-- Datasets: [FMA](https://github.com/mdeff/fma)
-- Libraries/Packages to create spectrograms: [Librosa](https://librosa.github.io/librosa/index.html) [Scipy](https://www.scipy.org/) 
+- Datasets: [FMA](https://github.com/mdeff/fma) or [GTZAN on Keras](https://github.com/Hguimaraes/gtzan.keras)
+- Libraries/Packages to create spectrograms: [Librosa](https://librosa.github.io/librosa/index.html)(See the feature extraction section) or [Scipy](https://www.scipy.org/) 
 
 ## FAQ
 **Can I use the ideas here for my thesis?** 
