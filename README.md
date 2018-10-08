@@ -169,6 +169,11 @@ Music
 - Can you tell if two songs are similar using their sound or lyrics? 
 - Dataset: [Million Songs Dataset](https://labrosa.ee.columbia.edu/millionsong/) and it's 1% sample. Example: [Anusha et al](https://cs224d.stanford.edu/reports/BalakrishnanDixit.pdf) 
 
+**Music Genre recognition using neural networks**
+- Can you identify the musical genre using their spectrograms or other sound information? 
+- Datasets: [FMA](https://github.com/mdeff/fma) or [GTZAN on Keras](https://github.com/Hguimaraes/gtzan.keras)
+- Get started with [Librosa](https://librosa.github.io/librosa/index.html) for feature extraction
+
 ## FAQ
 **Can I use the ideas here for my thesis?** 
 Yeah, totally. I'd love to know how it went. 
