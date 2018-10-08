@@ -170,10 +170,9 @@ Music
 - Dataset: [Million Songs Dataset](https://labrosa.ee.columbia.edu/millionsong/) and it's 1% sample. Example: [Anusha et al](https://cs224d.stanford.edu/reports/BalakrishnanDixit.pdf) 
 
 **Music Genre recognition using neural networks**
-- Neural Network ideas that were used for computer vision can be used to classify songs.
-- Spectrogram(Visual representation of a spectrum of frequencies) of songs of various genre can be created and used to train a     classifier.
+- Can you identify the musical genre using their spectrograms or other sound information? 
 - Datasets: [FMA](https://github.com/mdeff/fma) or [GTZAN on Keras](https://github.com/Hguimaraes/gtzan.keras)
-- Libraries/Packages to create spectrograms: [Librosa](https://librosa.github.io/librosa/index.html)(See the feature extraction section) or [Scipy](https://www.scipy.org/) 
+- Get started with [Librosa](https://librosa.github.io/librosa/index.html) for feature extraction
 
 ## FAQ
 **Can I use the ideas here for my thesis?** 
