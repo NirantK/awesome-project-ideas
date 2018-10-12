@@ -174,6 +174,12 @@ Music
 - Datasets: [FMA](https://github.com/mdeff/fma) or [GTZAN on Keras](https://github.com/Hguimaraes/gtzan.keras)
 - Get started with [Librosa](https://librosa.github.io/librosa/index.html) for feature extraction
 
+Recommendations
+---
+
+**Booktique**
+- Generates recommendations of books on the basis of your past ratings, and many other parameters.
+
 ## FAQ
 **Can I use the ideas here for my thesis?** 
 Yeah, totally. I'd love to know how it went. 
