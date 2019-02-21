@@ -190,9 +190,6 @@ Go to [Github issues](https://github.com/NirantK/awesome-project-ideas/issues) i
 Yikes, I am sorry. Please tell me by raising a [Github issue](https://github.com/NirantK/awesome-project-ideas/issues). 
 I'll fix it as soon as possible. 
 
-**Hey, I need help getting started. Can you help me find a mentor?**
-Just drop an email to projects@nirantk.com and we'll see if I can help you? 
-
 ### Acknowledgements
 Problems are motivated by the ones shared at:
 
