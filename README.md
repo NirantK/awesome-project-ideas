@@ -182,12 +182,12 @@ Yeah, totally. I'd love to know how it went.
 [Advice for Short Term Machine Learning Projects](https://rockt.github.io/2018/08/29/msc-advice) by Tim R. is a pretty good starting point! 
 
 **Do you want to share my solution/code to a problem here**? Yeah, sure - why not? 
-Go to [Github issues](https://github.com/NirantK/awesome-project-ideas/issues) in the repository and let me know there. 
+Go to the [GitHub issues](https://github.com/NirantK/awesome-project-ideas/issues) tap in this repository and let me know there. 
 
 **How can I add my ideas here?** Just send a pull request and we'll discuss? 
 
 **Hey, something is wrong here!** 
-Yikes, I am sorry. Please tell me by raising a [Github issue](https://github.com/NirantK/awesome-project-ideas/issues). 
+Yikes, I am sorry. Please tell me by raising a [GitHub issue](https://github.com/NirantK/awesome-project-ideas/issues). 
 I'll fix it as soon as possible. 
 
 ### Acknowledgements
@@ -200,6 +200,6 @@ Problems are motivated by the ones shared at:
 Built with lots of keyboard smashing and copy-pasta love by NirantK, find me on [(Twitter)](http://www.twitter.com/@nirantk)! 
 
 ## [Receive New & Exclusive Ideas in Email](http://eepurl.com/dIKLhz)
-These ideas have been see by [![HitCount](http://hits.dwyl.io/NirantK/awesome-project-ideas.svg)](http://hits.dwyl.io/NirantK/awesome-project-ideas) people in last few months!
+These ideas have been seen by [![hit count](http://hits.dwyl.io/NirantK/awesome-project-ideas.svg)](http://hits.dwyl.io/NirantK/awesome-project-ideas) people in last few months!
 
-If you are interested in seeing **exclusive** machine learning and deep learning project ideas, share your [email id here](http://eepurl.com/dIKLhz)
+If you are interested in seeing **exclusive** machine learning and deep learning project ideas, share your [email address here](http://eepurl.com/dIKLhz)
