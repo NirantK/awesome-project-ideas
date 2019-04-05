@@ -18,7 +18,7 @@
 Text
 ---------
 **Autonomous Tagging of Stack Overflow Questions** 
-- Make a multi-label classification system that automatically assigns tags for questions posted on a forum such as Stackoverflow or Quora 
+- Make a multi-label classification system that automatically assigns tags for questions posted on a forum such as Stack Overflow or Quora 
 - Dataset: [StackLite](https://www.kaggle.com/stackoverflow/stacklite) or [10% sample](https://www.kaggle.com/stackoverflow/stacksample) 
 
 **Keyword/Concept Identification** 
@@ -50,7 +50,7 @@ Text
 **Automatic Text Summarization**
 - Can you create a summary with the major points of the original document?
 - Abstractive (write your own summary) and Extractive (select pieces of text from original) are two popular approaches
-- Dataset: [CNN and DailyMail News Pieces](http://cs.nyu.edu/~kcho/DMQA/) by Google Deepmind
+- Dataset: [CNN and DailyMail News Pieces](http://cs.nyu.edu/~kcho/DMQA/) by Google Deep Mind
 
 **Copy-cat Bot**
 - Generate plausible new text which looks like some other text
@@ -114,7 +114,7 @@ Vision
   - [MNIST Handwritten Digit Classification Challenge](http://yann.lecun.com/exdb/mnist/)  is the classic entry point
   - [Character recognition (digits)](http://ai.stanford.edu/~btaskar/ocr/) is the good old Optical Character Recognition problem
   - Bird Species Identification from an Image using the [Caltech-UCSD Birds dataset](http://www.vision.caltech.edu/visipedia/CUB-200-2011.html) dataset
-  - Diagnosing and Segmenting Brain Tumors and Phenotypes using MRI Scans
+  - Diagnosing and Segmenting Brain Tumours and Phenotypes using MRI Scans
       - Dataset: MICCAI Machine Learning Challenge aka [MLC 2014](https://www.nmr.mgh.harvard.edu/lab/laboratory-computational-imaging-biomarkers/miccai-2014-machine-learning-challenge)
   - Identify endangered right whales in aerial photographs
       - Dataset: [MOAA Right Whale](https://www.kaggle.com/c/noaa-right-whale-recognition)
@@ -123,7 +123,7 @@ Vision
       
 **Bone XRay Competition**
 - Can you identify if the hand is broken from a X-ray radiographs automatically with better than human performance? 
-- Stanford's Bone XRay Deep Learning Compeition with [MURA Dataset](https://stanfordmlgroup.github.io/competitions/mura/)
+- Stanford's Bone XRay Deep Learning Competition with [MURA Dataset](https://stanfordmlgroup.github.io/competitions/mura/)
 
 **Image Captioning**
 - Can you caption/explain the photo a way human would? 
@@ -135,22 +135,22 @@ Vision
 
 **Large-Scale Video Understanding**
 - Can you produce the best video tag predictions?
-- Dataset: [Youtube 8M](https://research.google.com/youtube8m/index.html)
+- Dataset: [YouTube 8M](https://research.google.com/youtube8m/index.html)
 
 **Video Summarization**
 - Can you select the semantically relevant/important parts from the video? 
 - Example: [Fast-Forward Video Based on Semantic Extraction](https://arxiv.org/abs/1708.04160)
-- Dataset: Unaware of any standard dataset or agreed upon metrics, [Youtube 8M](https://research.google.com/youtube8m/index.html) might be good starting point
+- Dataset: Unaware of any standard dataset or agreed upon metrics, [YouTube 8M](https://research.google.com/youtube8m/index.html) might be good starting point
 
 **Style Transfer**
 - Can you recompose images in the style of other images? 
-- Dataset: [fzliu on Github](https://github.com/fzliu/style-transfer/tree/master/images) shared target and source images with results
+- Dataset: [fzliu on GitHub](https://github.com/fzliu/style-transfer/tree/master/images) shared target and source images with results
 
 **Face Recognition**
 - Can you identify whose photo is this? Similar to Facebook's photo tagging or Apple's FaceId
 - Dataset: [face-rec.org](http://www.face-rec.org/databases/), or [facedetection.com](https://facedetection.com/datasets/)
 
-**Clinical Diagnostics: Image Idenitification, classification & segmentation**
+**Clinical Diagnostics: Image Identification, classification & segmentation**
 - Can you help build an open source software for lung cancer detection to help radiologists? 
 - Link: [Concept to Clinic](https://concepttoclinic.drivendata.org/) challenge on DrivenData
 
@@ -182,7 +182,7 @@ Yeah, totally. I'd love to know how it went.
 [Advice for Short Term Machine Learning Projects](https://rockt.github.io/2018/08/29/msc-advice) by Tim R. is a pretty good starting point! 
 
 **Do you want to share my solution/code to a problem here**? Yeah, sure - why not? 
-Go to the [GitHub issues](https://github.com/NirantK/awesome-project-ideas/issues) tap in this repository and let me know there. 
+Go to the [GitHub issues](https://github.com/NirantK/awesome-project-ideas/issues) tab in this repository and let me know there.
 
 **How can I add my ideas here?** Just send a pull request and we'll discuss? 
 
