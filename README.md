@@ -22,7 +22,7 @@ A curated list of practical deep learning and machine learning project ideas
 
 - [Vision](#vision) - With topics about image and video processing
 
-- [Music and Audio](#music) - These topics are bout combining ideas from language and audio to understand music
+- [Music and Audio](#music) - These topics are about combining ideas from language and audio to understand music
 
 - [Conclusion](#conclusion)
 
