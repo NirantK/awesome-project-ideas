@@ -192,8 +192,6 @@ Check [mlm/blog](http://machinelearningmastery.com/text-generation-lstm-recurren
 
 ---
 
-## Conclusion
-
 ### FAQ
 
 - **Can I use the ideas here for my thesis?**
@@ -235,7 +233,3 @@ If you are interested in seeing **exclusive** machine learning and deep learning
 ### License
 
 This repository is licensed under the MIT License. Please see the [LICENSE file](./LICENSE) for more details.
-
----
-
-Copyright :copyright: 2017-2019 Nirant Kasliwal
