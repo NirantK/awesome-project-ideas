@@ -28,7 +28,7 @@ A curated list of practical deep learning and machine learning project ideas
 
 ---
 
-## Text <a name="text"></a>
+## Text
 
 - **Autonomous Tagging of StackOverflow Questions**
   
@@ -85,7 +85,7 @@ Check [mlm/blog](http://machinelearningmastery.com/text-generation-lstm-recurren
   - Can you classify the text of an e-mail message to decide who sent it?
   - Dataset: [150,000 Enron emails](https://www.cs.cmu.edu/~./enron/)
 
-## Forecasting <a name="forecasting"></a>
+## Forecasting
 
 - **Univariate Time Series Forecasting**
   - How much will it rain this year?
@@ -104,7 +104,7 @@ Check [mlm/blog](http://machinelearningmastery.com/text-generation-lstm-recurren
   - More on the problem statement at [Driven Data](https://www.drivendata.org/competitions/2/warm-up-predict-blood-donations/page/7/).
   - Dataset: [UCI ML Datasets Repo](https://archive.ics.uci.edu/ml/datasets/Blood+Transfusion+Service+Center)
 
-## Recommendation systems <a name="recommendation-systems"></a>
+## Recommendation systems
 
 - **Movie Recommender**
   - Can you predict the rating a user will give on a movie?
@@ -119,7 +119,7 @@ Check [mlm/blog](http://machinelearningmastery.com/text-generation-lstm-recurren
   - How can you predict social influencers?
   - Dataset: [PeerIndex](https://www.kaggle.com/c/predict-who-is-more-influential-in-a-social-network/data)
 
-## Vision <a name="vision"></a>
+## Vision
 
 - **Image classification**
   - Object recognition or image classification task is how Deep Learning shot up to it's present-day resurgence
@@ -178,7 +178,7 @@ Check [mlm/blog](http://machinelearningmastery.com/text-generation-lstm-recurren
   - Can you automatically tag satellite images with human features such as buildings, roads, waterways and so on?
   - Help free the manual effort in tagging satellite imagery: [Kaggle Dataset by DSTL, UK](https://www.kaggle.com/c/dstl-satellite-imagery-feature-detection)
 
-## Music <a name="music"></a>
+## Music
 
 - **Music/Audio Recommendation Systems**
   - Can you tell if two songs are similar using their sound or lyrics?
@@ -192,7 +192,7 @@ Check [mlm/blog](http://machinelearningmastery.com/text-generation-lstm-recurren
 
 ---
 
-## Conclusion <a name="conclusion"></a>
+## Conclusion
 
 ### FAQ
 
