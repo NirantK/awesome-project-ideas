@@ -22,6 +22,8 @@ A curated list of practical deep learning and machine learning project ideas
 
 - [Vision](#vision) - With topics about image and video processing
 
+- [Deep Reinforcement Learning](#Deep Reinforcement Learning) -Deep Q Learning 
+
 - [Music and Audio](#music) - These topics are about combining ideas from language and audio to understand music
 
 - [Conclusion](#conclusion)
@@ -177,6 +179,13 @@ Check [mlm/blog](http://machinelearningmastery.com/text-generation-lstm-recurren
 - **Satellite Imagery Processing for Automated Tagging**
   - Can you automatically tag satellite images with human features such as buildings, roads, waterways and so on?
   - Help free the manual effort in tagging satellite imagery: [Kaggle Dataset by DSTL, UK](https://www.kaggle.com/c/dstl-satellite-imagery-feature-detection)
+  
+  
+## Deep Reinforcement Learning
+
+- **Deep Q Learning**
+  -AI Playing games and stuff
+  -Project [Git Repo](https://github.com/aryanc55/T-RexDinoRunner-GAME-AI-BOT)
 
 ## Music
 
