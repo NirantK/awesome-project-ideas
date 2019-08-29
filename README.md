@@ -184,8 +184,9 @@ Check [mlm/blog](http://machinelearningmastery.com/text-generation-lstm-recurren
 ## Deep Reinforcement Learning
 
 - **Deep Q Learning**
-  - AI Playing games and stuff
-  - Project [Git Repo](https://github.com/aryanc55/T-RexDinoRunner-GAME-AI-BOT)
+  - Can you make AI play games and automate stuff by learning in a enviroment.
+  - Enviroments(dataset of Reinforcement Learning) [OpenAI GYM](https://gym.openai.com/)
+  - T-REX Chrome Dino BOT [Git Repo](https://github.com/aryanc55/T-RexDinoRunner-GAME-AI-BOT)
 
 ## Music
 
