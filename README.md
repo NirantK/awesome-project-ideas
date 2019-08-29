@@ -184,8 +184,8 @@ Check [mlm/blog](http://machinelearningmastery.com/text-generation-lstm-recurren
 ## Deep Reinforcement Learning
 
 - **Deep Q Learning**
-  -AI Playing games and stuff
-  -Project [Git Repo](https://github.com/aryanc55/T-RexDinoRunner-GAME-AI-BOT)
+  - AI Playing games and stuff
+  - Project [Git Repo](https://github.com/aryanc55/T-RexDinoRunner-GAME-AI-BOT)
 
 ## Music
 
