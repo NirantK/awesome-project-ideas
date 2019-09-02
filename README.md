@@ -65,6 +65,11 @@ A curated list of practical deep learning and machine learning project ideas
   - [Facebook's FAIR](https://github.com/facebookresearch/DrQA) is built in a similar way for Wikipedia.
   - Dataset: [NCERT books](http://ncert.nic.in/ebooks.html) for K-12/school students in India, [NarrativeQA by Google DeepMind](https://github.com/deepmind/narrativeqa) and [SQuAD by Stanford](https://rajpurkar.github.io/SQuAD-explorer/)
 
+- **SNS Chat-Bots(Neural MAchine Translation)**
+  - Can you build a bot which talks to you just like people talk on social networking sites?
+  - [Chat-bot architechture -GIT REPO](https://github.com/aryanc55/TS3000_TheChatBOT) is a SNS Chatbot. 
+  - Dataset: [Reddit Dataset](http://files.pushshift.io/reddit/comments/) 
+
 - **Automatic text summarization**
   - Can you create a summary with the major points of the original document?
   - Abstractive (write your own summary) and Extractive (select pieces of text from original) are two popular approaches
