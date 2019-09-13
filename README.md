@@ -22,6 +22,8 @@ A curated list of practical deep learning and machine learning project ideas
 
 - [Vision](#vision) - With topics about image and video processing
 
+- [Deep Reinforcement Learning](#Deep-Reinforcement-Learning) - Deep Q Learning 
+
 - [Music and Audio](#music) - These topics are about combining ideas from language and audio to understand music
 
 - [Conclusion](#conclusion)
@@ -62,6 +64,11 @@ A curated list of practical deep learning and machine learning project ideas
   - Can you build a bot which answers questions according to the student's age or her curriculum?
   - [Facebook's FAIR](https://github.com/facebookresearch/DrQA) is built in a similar way for Wikipedia.
   - Dataset: [NCERT books](http://ncert.nic.in/ebooks.html) for K-12/school students in India, [NarrativeQA by Google DeepMind](https://github.com/deepmind/narrativeqa) and [SQuAD by Stanford](https://rajpurkar.github.io/SQuAD-explorer/)
+
+- **Social Chat/Conversational Bots**
+  - Can you build a bot which talks to you just like people talk on social networking sites?
+  - [Chat-bot architechture](https://github.com/aryanc55/TS3000_TheChatBOT) Its is a SNS Chatbot. 
+  - Dataset: [Reddit Dataset](http://files.pushshift.io/reddit/comments/) 
 
 - **Automatic text summarization**
   - Can you create a summary with the major points of the original document?
@@ -177,6 +184,14 @@ Check [mlm/blog](http://machinelearningmastery.com/text-generation-lstm-recurren
 - **Satellite Imagery Processing for Automated Tagging**
   - Can you automatically tag satellite images with human features such as buildings, roads, waterways and so on?
   - Help free the manual effort in tagging satellite imagery: [Kaggle Dataset by DSTL, UK](https://www.kaggle.com/c/dstl-satellite-imagery-feature-detection)
+  
+  
+## Deep Reinforcement Learning
+
+- **Deep Q Learning**
+  - Can you make AI play games and automate stuff by learning in a enviroment.
+  - Enviroments(dataset of Reinforcement Learning) [OpenAI GYM](https://gym.openai.com/)
+  - T-REX Chrome Dino BOT [Git Repo](https://github.com/aryanc55/T-RexDinoRunner-GAME-AI-BOT)
 
 ## Music
 
