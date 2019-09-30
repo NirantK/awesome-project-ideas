@@ -67,7 +67,7 @@ A curated list of practical deep learning and machine learning project ideas
 
 - **Social Chat/Conversational Bots**
   - Can you build a bot which talks to you just like people talk on social networking sites?
-  - [Chat-bot architechture](https://github.com/aryanc55/TS3000_TheChatBOT) Its is a SNS Chatbot. 
+  - Reference: [Chat-bot architechture](https://github.com/aryanc55/TS3000_TheChatBOT) 
   - Dataset: [Reddit Dataset](http://files.pushshift.io/reddit/comments/) 
 
 - **Automatic text summarization**
@@ -168,6 +168,10 @@ Check [mlm/blog](http://machinelearningmastery.com/text-generation-lstm-recurren
 - **Style Transfer**
   - Can you recompose images in the style of other images?
   - Dataset: [fzliu on GitHub](https://github.com/fzliu/style-transfer/tree/master/images) shared target and source images with results
+
+- **Chest XRay**
+  - Can you detect if someone is sick from their chest XRay? Or guess their radiology report?
+  - Dataset: [MIMIC-CXR at Physionet](https://physionet.org/content/mimic-cxr/2.0.0/)
 
 - **Face Recognition**
   - Can you identify whose photo is this? Similar to Facebook's photo tagging or Apple's FaceId
