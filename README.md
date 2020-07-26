@@ -158,7 +158,7 @@ Check [mlm/blog](http://machinelearningmastery.com/text-generation-lstm-recurren
   - Can computer vision spot distracted drivers?
     - Dataset: [State Farm Distracted Driver Detection](https://www.kaggle.com/c/state-farm-distracted-driver-detection/data) on Kaggle
 
-- **Bone X-Ray dompetition**
+- **Bone X-Ray competition**
   - Can you identify if a hand is broken from a X-ray radiographs automatically with better than human performance?
   - Stanford's Bone XRay Deep Learning Competition with [MURA Dataset](https://stanfordmlgroup.github.io/competitions/mura/)
 
