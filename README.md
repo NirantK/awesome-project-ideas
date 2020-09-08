@@ -81,7 +81,7 @@ If you haven't already, checkout [Kaggle's Covid19 Section](https://www.kaggle.c
 
 - **Social Chat/Conversational Bots**
   - Can you build a bot which talks to you just like people talk on social networking sites?
-  - Reference: [Chat-bot architechture](https://github.com/aryanc55/TS3000_TheChatBOT) 
+  - Reference: [Chat-bot architecture](https://github.com/aryanc55/TS3000_TheChatBOT) 
   - Dataset: [Reddit Dataset](http://files.pushshift.io/reddit/comments/) 
 
 - **Automatic text summarization**
@@ -151,7 +151,7 @@ Check [mlm/blog](http://machinelearningmastery.com/text-generation-lstm-recurren
     - [MNIST Handwritten Digit Classification Challenge](http://yann.lecun.com/exdb/mnist/)  is the classic entry point
     - [Character recognition (digits)](http://ai.stanford.edu/~btaskar/ocr/) is the good old Optical Character Recognition problem
     - Bird Species Identification from an Image using the [Caltech-UCSD Birds dataset](http://www.vision.caltech.edu/visipedia/CUB-200-2011.html) dataset
-  - Diagnosing and Segmenting Brain Tumours and Phenotypes using MRI Scans
+  - Diagnosing and Segmenting Brain Tumors and Phenotypes using MRI Scans
     - Dataset: MICCAI Machine Learning Challenge aka [MLC 2014](https://www.nmr.mgh.harvard.edu/lab/laboratory-computational-imaging-biomarkers/miccai-2014-machine-learning-challenge)
   - Identify endangered right whales in aerial photographs
     - Dataset: [MOAA Right Whale](https://www.kaggle.com/c/noaa-right-whale-recognition)
