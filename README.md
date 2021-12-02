@@ -77,7 +77,7 @@ If you haven't already, checkout [Kaggle's Covid19 Section](https://www.kaggle.c
 - **Open Domain question answering**
   - Can you build a bot which answers questions according to the student's age or her curriculum?
   - [Facebook's FAIR](https://github.com/facebookresearch/DrQA) is built in a similar way for Wikipedia.
-  - Dataset: [NCERT books](http://ncert.nic.in/ebooks.html) for K-12/school students in India, [NarrativeQA by Google DeepMind](https://github.com/deepmind/narrativeqa) and [SQuAD by Stanford](https://rajpurkar.github.io/SQuAD-explorer/)
+  - Dataset: [NCERT books](https://ncert.nic.in/textbook.php) for K-12/school students in India, [NarrativeQA by Google DeepMind](https://github.com/deepmind/narrativeqa) and [SQuAD by Stanford](https://rajpurkar.github.io/SQuAD-explorer/)
 
 - **Social Chat/Conversational Bots**
   - Can you build a bot which talks to you just like people talk on social networking sites?
