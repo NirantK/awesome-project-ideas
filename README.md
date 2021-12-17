@@ -62,10 +62,6 @@ If you haven't already, checkout [Kaggle's Covid19 Section](https://www.kaggle.c
 
 ### Natural Language Understanding
 
-- **Automated essay grading**
-  - The purpose of this project is to implement and train machine learning algorithms to automatically assess and grade essay responses.
-  - Dataset: [Essays with human graded scores](https://www.kaggle.com/c/asap-aes/data)
-
 - **Sentence to Sentence semantic similarity**
   - Can you identify question pairs that have the same intent or meaning?
   - Dataset: [Quora question pairs](https://www.kaggle.com/c/quora-question-pairs/data) with similar questions marked
