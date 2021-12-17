@@ -97,10 +97,6 @@ Check [mlm/blog](http://machinelearningmastery.com/text-generation-lstm-recurren
   - Do Twitter Sentiment Analysis on tweets sorted by geography and timestamp.
   - Dataset: [Tweets sentiment tagged by humans](https://inclass.kaggle.com/c/si650winter11/data)
 
-- **De-anonymization**
-  - Can you classify the text of an e-mail message to decide who sent it?
-  - Dataset: [150,000 Enron emails](https://www.cs.cmu.edu/~./enron/)
-
 ## Forecasting
 
 - **Univariate Time Series Forecasting**
