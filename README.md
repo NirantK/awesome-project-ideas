@@ -187,10 +187,6 @@ Check [mlm/blog](http://machinelearningmastery.com/text-generation-lstm-recurren
   - Can you detect if someone is sick from their chest XRay? Or guess their radiology report?
   - Dataset: [MIMIC-CXR at Physionet](https://physionet.org/content/mimic-cxr/2.0.0/)
 
-- **Face Recognition**
-  - Can you identify whose photo is this? Similar to Facebook's photo tagging or Apple's FaceId
-  - Dataset: [face-rec.org](http://www.face-rec.org/databases/), or [facedetection.com](https://facedetection.com/datasets/)
-
 - **Clinical Diagnostics: Image Identification, classification & segmentation**
   - Can you help build an open source software for lung cancer detection to help radiologists?
   - Link: [Concept to clinic](https://concepttoclinic.drivendata.org/) challenge on DrivenData
