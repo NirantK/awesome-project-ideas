@@ -14,6 +14,8 @@ A curated list of practical deep learning and machine learning project ideas
 
 ## Contents
 
+- [LLM Apps](llm-apps) - Project ideas unlocked by use of Large Language Models, specially text to text -- note that a lot of the text to text ideas can also be buit a lot better with LLMs now!
+
 - [Text](#text) - With some topics about Natural language processing
 
 - [Forecasting](#forecasting) - Most of the topics in this section is about Time Series and similar forecasting challenges
@@ -28,6 +30,23 @@ A curated list of practical deep learning and machine learning project ideas
 
 ---
 
+## LLM Apps
+
+- **Knowledge Base QA** aka Answer Engines
+
+  - Take any plaintext dataset e.g. State of the Union address and build on top of that 
+  ![image](https://user-images.githubusercontent.com/3250749/223094577-8126570b-f7a4-48ad-9f77-ff86a8b21161.png)
+  - Can use this over Video Subtitles to search and QA over videos as well, by mapping back to source
+
+- **Guided Summarisation/Rewriting**
+  
+  - Take specific questions which the user might have about a large text dataset e.g. a novel or book and include that in your summary of the piece
+  - Pay attention to specific entities and retell the events which happen in a story with attention to that character
+  
+- **Text to Code/SQL**
+
+  - Use code understanding to convert use query to SQL or another executable programming language, including Domain Specific Languages
+  - Here is an example of the same: [qabot](github.com/hardbyte/qabot)
   
 ## Text
 
