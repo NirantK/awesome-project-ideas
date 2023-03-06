@@ -193,11 +193,6 @@ Check [mlm/blog](http://machinelearningmastery.com/text-generation-lstm-recurren
 - **Do you have any advice before I start my project?**
   [Advice for Short Term Machine Learning Projects](https://rockt.github.io/2018/08/29/msc-advice) by Tim R. is a pretty good starting point!
 
-- **Would you like to share my solution/code to a problem here?**
-  Sure - why not?
-  
-  Go to the [GitHub issues](https://github.com/NirantK/awesome-project-ideas/issues) tab in this repository and let me know there.
-
 - **How can I add my ideas here?**
   Just send a pull request and we'll discuss?
 
@@ -212,16 +207,11 @@ Problems are motivated by the ones shared at:
 
 - [CMU Machine Learning](http://www.cs.cmu.edu/~./10701/projects.html)
 - [Stanford CS229 Machine Learning Projects](http://cs229.stanford.edu/)
+- [swyx](https://github.com/sw-yx/ai-notes/blob/main/Resources/AI-hackathon-stack.md)
 
 ### Credit
 
 Built with lots of keyboard smashing and copy-pasta love by NirantK. Find me on [Twitter](http://www.twitter.com/@nirantk)!
-
-### [Receive New & Exclusive Ideas right in your Inbox](http://eepurl.com/dIKLhz)
-
-These ideas have been seen by [![hit count](http://hits.dwyl.io/NirantK/awesome-project-ideas.svg)](http://hits.dwyl.io/NirantK/awesome-project-ideas) people in last few months!
-
-If you are interested in seeing **exclusive** machine learning and deep learning project ideas, share your [e-mail address here](http://eepurl.com/dIKLhz)!
 
 ### License
 
