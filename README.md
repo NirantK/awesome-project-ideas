@@ -43,6 +43,9 @@ A curated list of practical deep learning and machine learning project ideas
   - Take specific questions which the user might have about a large text dataset e.g. a novel or book and include that in your summary of the piece
   - Pay attention to specific entities and retell the events which happen in a story with attention to that character
   
+- **ControlNet + Stable Diffusion for Aethetic Control**
+  - Build tooling using [diffusers](https://github.com/huggingface/diffusers/) which takes in a set of photos, finetunes a model (LoRA) on a person, detects face and moves it to a new aesthetic e.g. futuristic neon punk, grunge rock, Studio Ghibli. Can also add InstructPix2Pix to give user more control. 
+  
 - **Text to Code/SQL**
 
   - Use code understanding to convert use query to SQL or another executable programming language, including Domain Specific Languages
