@@ -14,7 +14,7 @@ A curated list of practical deep learning and machine learning project ideas
 
 ## Contents
 
-- [LLM Apps](llm-apps) - Project ideas unlocked by use of Large Language Models, specially text to text -- note that a lot of the text to text ideas can also be buit a lot better with LLMs now!
+- [LLM Apps](#llm-apps) - Project ideas unlocked by use of Large Language Models, specially text to text -- note that a lot of the text to text ideas can also be buit a lot better with LLMs now!
 
 - [Text](#text) - With some topics about Natural language processing
 
