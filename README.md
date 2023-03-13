@@ -36,7 +36,8 @@ A curated list of practical deep learning and machine learning project ideas
 
 - **Developer Ideas**
   - Text to cmd for terminal: Take user intent in terminal e.g. 
-    ```$ask "how to list all files with details"
+    ```bash
+    $ask "how to list all files with details"
     > Execute "ls -l"? [y/N] y 
     $ls -l
     ```
