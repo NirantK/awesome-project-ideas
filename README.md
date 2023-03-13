@@ -26,6 +26,8 @@ A curated list of practical deep learning and machine learning project ideas
 
 - [Music and Audio](#music) - These topics are about combining ideas from language and audio to understand music
 
+- [Hackathon Ideas](#hackathon-ideas) - Ideas for hackathons
+
 - [Conclusion](#conclusion)
 
 ---
@@ -204,6 +206,20 @@ Check [mlm/blog](http://machinelearningmastery.com/text-generation-lstm-recurren
   - Can you identify the musical genre using their spectrograms or other sound information?
   - Datasets: [FMA](https://github.com/mdeff/fma) or [GTZAN on Keras](https://github.com/Hguimaraes/gtzan.keras)
   - Get started with [Librosa](https://librosa.github.io/librosa/index.html) for feature extraction
+
+## Hackathon Ideas  
+- Telegram bot to get audio and save as text with metadata into mem.ai.
+- Text to cmd for terminal
+- Semantic search over any media
+- Edit image by text
+- Layout generator for photoshop/figma
+- Mobile android/ios SDK for SD inference on phone
+- Expression Transfer from Self Image to SD Image
+- Simple Music Generation 
+- Audio Conversation with chatGPT
+- Build YAML gen using natural language
+  - Can be use-case specific. Build pipelines? Kube?
+- Code Completion semantic improvements
 
 ---
 
