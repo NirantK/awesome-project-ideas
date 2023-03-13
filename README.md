@@ -46,14 +46,18 @@ A curated list of practical deep learning and machine learning project ideas
     - Can be use-case specific. Build pipelines? Kube?
     
   - Mobile android/ios SDK for Stable Diffusion inference
-    -  Apple has released a CoreML Stable Diffusion Inference pipeline: https://github.com/apple/ml-stable-diffusion
+    -  Apple has released a [CoreML Stable Diffusion Inference](https://github.com/apple/ml-stable-diffusion)
 
 - **Voice powered Experiences**
   - Audio Conversation with chatGPT
-  - Telegram/WhatsApp bot to get audio and save as text with metadata into mem.ai/Roam Research/Obsidian
+  - Telegram/WhatsApp bot to get audio and save as text with metadata into mem.ai or Roam Research or Obsidian
 
-- Edit image by text: [SeeChatGPT](https://github.com/Nischaydnk/SeeChatGPT) as an example
+
+- Edit image by text: [SeeChatGPT](https://github.com/Nischaydnk/SeeChatGPT) and [playgroundai.com](playgroundai.com) as examples
+  - The underlying mechanism which you can use is called [InstructPix2Pix](huggingface.co/spaces/timbrooks/instruct-pix2pix)
+  
 - Semantic search over any media
+  - Can build using CLIP or [BLIP-2 embeddings](huggingface.co/docs/transformers/main/model_doc/blip-2) for images and [CLAP](https://github.com/LAION-AI/CLAP/tree/clap#quick-start) for all audio including music and speech
 - Expression Transfer from Self Image to SD Image
 - Simple Music Generation
 
