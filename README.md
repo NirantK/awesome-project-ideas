@@ -14,7 +14,7 @@ A curated list of practical deep learning and machine learning project ideas
 
 ## Contents
 
-- [LLM Apps](#llm-apps) - Project ideas unlocked by use of Large Language Models, specially text to text -- note that a lot of the text to text ideas can also be buit a lot better with LLMs now!
+- [Hackathon Ideas](#hackathon-ideas) - Project ideas unlocked by use of Large Language Models, specially text to text -- note that a lot of the text to text ideas can also be buit a lot better with LLMs now!
 
 - [Text](#text) - With some topics about Natural language processing
 
@@ -32,7 +32,28 @@ A curated list of practical deep learning and machine learning project ideas
 
 ---
 
-## LLM Apps
+## Hackathon Ideas
+
+- **Developer Ideas**
+  - Text to cmd for terminal: Take user intent in terminal e.g. 
+    ```$ask "how to list all files with details"
+    > Execute "ls -l"? [y/N] y 
+    $ls -l
+    ```
+  - Build and edit YAMLs using natural language e.g. Kubernetes and other form of config files
+    - [Kor](eyurtsev.github.io/kor/) for ideas on how this is done for JSON
+    - Can be use-case specific. Build pipelines? Kube?
+    
+  - Mobile android/ios SDK for SD inference on phone
+
+- **Voice powered Experiences**
+  - Audio Conversation with chatGPT
+  - Telegram/WhatsApp bot to get audio and save as text with metadata into mem.ai/Roam Research/Obsidian
+
+- Edit image by text: [SeeChatGPT](https://github.com/Nischaydnk/SeeChatGPT) as an example
+- Semantic search over any media
+- Expression Transfer from Self Image to SD Image
+- Simple Music Generation
 
 - **Knowledge Base QA** aka Answer Engines
 
@@ -207,19 +228,7 @@ Check [mlm/blog](http://machinelearningmastery.com/text-generation-lstm-recurren
   - Datasets: [FMA](https://github.com/mdeff/fma) or [GTZAN on Keras](https://github.com/Hguimaraes/gtzan.keras)
   - Get started with [Librosa](https://librosa.github.io/librosa/index.html) for feature extraction
 
-## Hackathon Ideas  
-- Telegram bot to get audio and save as text with metadata into mem.ai.
-- Text to cmd for terminal
-- Semantic search over any media
-- Edit image by text
-- Layout generator for photoshop/figma
-- Mobile android/ios SDK for SD inference on phone
-- Expression Transfer from Self Image to SD Image
-- Simple Music Generation 
-- Audio Conversation with chatGPT
-- Build YAML gen using natural language
-  - Can be use-case specific. Build pipelines? Kube?
-- Code Completion semantic improvements
+
 
 ---
 
