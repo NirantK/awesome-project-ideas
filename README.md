@@ -45,7 +45,8 @@ A curated list of practical deep learning and machine learning project ideas
     - [Kor](eyurtsev.github.io/kor/) for ideas on how this is done for JSON
     - Can be use-case specific. Build pipelines? Kube?
     
-  - Mobile android/ios SDK for SD inference on phone
+  - Mobile android/ios SDK for Stable Diffusion inference
+    -  Apple has released a CoreML Stable Diffusion Inference pipeline: https://github.com/apple/ml-stable-diffusion
 
 - **Voice powered Experiences**
   - Audio Conversation with chatGPT
@@ -78,9 +79,8 @@ A curated list of practical deep learning and machine learning project ideas
 ## Text
 
 - **Autonomous Tagging of StackOverflow Questions**
-  
-  - Make a multi-label classification system that automatically assigns tags for questions posted on a forum such as StackOverflow or Quora.
-  - Dataset: [StackLite](https://www.kaggle.com/stackoverflow/stacklite) or [10% sample](https://www.kaggle.com/stackoverflow/stacksample)
+    - Make a multi-label classification system that automatically assigns tags for questions posted on a forum such as StackOverflow or Quora.
+    - Dataset: [StackLite](https://www.kaggle.com/stackoverflow/stacklite) or [10% sample](https://www.kaggle.com/stackoverflow/stacksample)
 
 - **Keyword/Concept identification**
   
