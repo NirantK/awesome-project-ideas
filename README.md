@@ -26,8 +26,6 @@ A curated list of practical deep learning and machine learning project ideas
 
 - [Music and Audio](#music) - These topics are about combining ideas from language and audio to understand music
 
-- [Hackathon Ideas](#hackathon-ideas) - Ideas for hackathons
-
 - [Conclusion](#conclusion)
 
 ---
